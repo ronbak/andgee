@@ -138,7 +138,7 @@ public class Phone implements SensorListener {
 	}
 	
 	/**
-	 * Adds an WiimoteListener to the wiimote. Everytime an action
+	 * Adds an WiimoteListener to the wiimote. Every Time an action
 	 * on the wiimote is performed the WiimoteListener would receive
 	 * an event of this action.
 	 * 
@@ -149,7 +149,7 @@ public class Phone implements SensorListener {
 	}
 	
 	/**
-	 * Adds a GestureListener to the wiimote. Everytime a gesture
+	 * Adds a GestureListener to the wiimote. Every Time a gesture
 	 * is performed the GestureListener would receive an event of
 	 * this gesture.
 	 */
