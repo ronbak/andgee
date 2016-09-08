@@ -157,7 +157,7 @@ public class GestureModel {
 	/**
 	 * Since the bayes classifier needs a model probability for
 	 * each model this has to be set once after training. As model
-	 * probability the average probability value has been choosen.
+	 * probability the average probability value has been chosen.
 	 * 
 	 * TODO: try lowest or highest model probability as alternative
 	 * 

@@ -35,7 +35,7 @@ import logic.Quantizer;
 
 /**
  * This is a static class to support saving and loading complete gestures. I've
- * choosen not to use some kind of XML, because the big multidimensional arrays
+ * chosen not to use some kind of XML, because the big multidimensional arrays
  * would cause a huge senseless amount of xml-data. So KISS: Keep It Simple,
  * Stupid! ;) Comma-separated-vectors with some control data.
  * 
