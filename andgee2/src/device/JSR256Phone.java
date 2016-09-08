@@ -55,7 +55,7 @@
 //	
 //	/**
 //	 * @author Benjamin 'BePo' Poppinga
-//	 * Called from DataListener, JSR 256, if an acceleration happend.
+//	 * Called from DataListener, JSR 256, if an acceleration happened.
 //	 */
 //	public void dataReceived(SensorConnection sensor, Data[] data, boolean arg2) {
 //		

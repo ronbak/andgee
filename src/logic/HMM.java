@@ -266,7 +266,7 @@ public class HMM {
 	/** 
 	 * Prints everything about this model, including
 	 * all values. For debug purposes or if you want
-	 * to comprehend what happend to the model.
+	 * to comprehend what happened to the model.
 	 * 
 	 */
 	public void print() {
