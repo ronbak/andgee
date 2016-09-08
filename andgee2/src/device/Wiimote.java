@@ -65,7 +65,7 @@
 //	public static final byte MODE_BUTTONS_ACCELERATION_INFRARED = 0x33;
 //	
 //	
-//	// Bluetooth-adress as string representation
+//	// Bluetooth-address as string representation
 //	private String btaddress;
 //	
 //	// LED encoded as byte
@@ -87,10 +87,10 @@
 //	
 //	
 //	/**
-//	 * Creates a new wiimote-device with a specific bluetooth mac-adress.
+//	 * Creates a new wiimote-device with a specific bluetooth mac-address.
 //	 * 
 //	 * @param btaddress
-//	 * 			String representation of the mac-adress e.g. 00191D68B57C
+//	 * 			String representation of the mac-address e.g. 00191D68B57C
 //	 */
 //	public Wiimote(String btaddress) throws IOException {
 //		btaddress = this.removeChar(btaddress, ':');
