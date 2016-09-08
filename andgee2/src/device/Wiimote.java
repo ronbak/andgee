@@ -184,7 +184,7 @@
 //
 //	/**
 //	 * Makes the Wiimote respond the data of an register. The wiimotestreamer
-//	 * doesn't react to the reponse yet.
+//	 * doesn't react to the response yet.
 //	 * 
 //	 * @param offset The memory offset.
 //	 * @param size The size which has to be read out.
